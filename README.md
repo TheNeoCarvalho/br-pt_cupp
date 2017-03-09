@@ -77,6 +77,10 @@ to encourage further developement of the tool.
   http://www.remote-exploit.org  
   http://www.azuzi.me  
 
+##Tradução / Translate PT-BR
+  Manoel Carvalho
+  manoelmecat@gmail.com
+  https://github.com/TheNeoCarvalho
 
 ## Contributors
 
@@ -93,4 +97,7 @@ to encourage further developement of the tool.
 
   * Andrea Giacomo  
     https://github.com/codepr
+
+
+
 
