@@ -78,9 +78,9 @@ to encourage further developement of the tool.
   http://www.azuzi.me  
 
 ##Tradução / Translate PT-BR
-	Manoel Carvalho
-	manoelmecat@gmail.com
-	https://github.com/TheNeoCarvalho
+  * Manoel Carvalho
+  manoelmecat@gmail.com
+  https://github.com/TheNeoCarvalho
 
 ## Contributors
 
